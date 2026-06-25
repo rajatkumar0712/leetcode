@@ -10,4 +10,8 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajatkumar0712/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/rajatkumar0712/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
