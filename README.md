@@ -11,6 +11,7 @@
 | [1470-shuffle-the-array](https://github.com/rajatkumar0712/leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/rajatkumar0712/leetcode/tree/master/1929-concatenation-of-array) |
 | [3379-transformed-array](https://github.com/rajatkumar0712/leetcode/tree/master/3379-transformed-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/rajatkumar0712/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | ------- |
 | [1929-concatenation-of-array](https://github.com/rajatkumar0712/leetcode/tree/master/1929-concatenation-of-array) |
 | [3379-transformed-array](https://github.com/rajatkumar0712/leetcode/tree/master/3379-transformed-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/rajatkumar0712/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
 | ------- |
