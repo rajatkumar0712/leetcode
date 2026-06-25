@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajatkumar0712/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/rajatkumar0712/leetcode/tree/master/0088-merge-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/rajatkumar0712/leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/rajatkumar0712/leetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajatkumar0712/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/rajatkumar0712/leetcode/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -20,4 +22,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/rajatkumar0712/leetcode/tree/master/1929-concatenation-of-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/rajatkumar0712/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
