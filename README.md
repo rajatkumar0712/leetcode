@@ -8,6 +8,7 @@
 | [0088-merge-sorted-array](https://github.com/rajatkumar0712/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/rajatkumar0712/leetcode/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/rajatkumar0712/leetcode/tree/master/0561-array-partition) |
+| [0896-monotonic-array](https://github.com/rajatkumar0712/leetcode/tree/master/0896-monotonic-array) |
 | [1470-shuffle-the-array](https://github.com/rajatkumar0712/leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/rajatkumar0712/leetcode/tree/master/1929-concatenation-of-array) |
 | [3379-transformed-array](https://github.com/rajatkumar0712/leetcode/tree/master/3379-transformed-array) |
