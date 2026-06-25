@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rajatkumar0712/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajatkumar0712/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/rajatkumar0712/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/rajatkumar0712/leetcode/tree/master/0283-move-zeroes) |
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/rajatkumar0712/leetcode/tree/master/0561-array-partition) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rajatkumar0712/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
