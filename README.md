@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajatkumar0712/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/rajatkumar0712/leetcode/tree/master/0088-merge-sorted-array) |
+| [0561-array-partition](https://github.com/rajatkumar0712/leetcode/tree/master/0561-array-partition) |
 | [1470-shuffle-the-array](https://github.com/rajatkumar0712/leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/rajatkumar0712/leetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -26,4 +27,13 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rajatkumar0712/leetcode/tree/master/0088-merge-sorted-array) |
+| [0561-array-partition](https://github.com/rajatkumar0712/leetcode/tree/master/0561-array-partition) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/rajatkumar0712/leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/rajatkumar0712/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
